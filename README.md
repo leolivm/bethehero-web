@@ -1,6 +1,6 @@
 <h1 align="center">
-    <img alt="bethehero1" src="https://i.imgur.com/fMrUbkg.png" width="200" heigth="416" />
-    <img alt="bethehero2" src="https://i.imgur.com/mQvtoXb.png" width="200" heigth="416" />
+    <img alt="bethehero1" src="https://i.imgur.com/fMrUbkg.png" width="920" heigth="518" />
+    <img alt="bethehero2" src="https://i.imgur.com/mQvtoXb.png" width="920" heigth="518" />
 </h1>
 
 <h3 align="center">
