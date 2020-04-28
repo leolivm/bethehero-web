@@ -7,7 +7,7 @@
   bethehero-web
 </h3>
 
-<blockquote align="center">Aplicação web para casos de ONGs que precisam ser encontradas.</blockquote>
+<blockquote align="center">Aplicação web para cadastro de ONGs que precisam ser encontradas.</blockquote>
 
 <p align="center">
   <a href="http://sgeinformatica.com.br/">
