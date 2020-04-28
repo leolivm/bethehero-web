@@ -4,7 +4,7 @@
 </h1>
 
 <h3 align="center">
-  bethehero-mobile
+  bethehero-web
 </h3>
 
 <blockquote align="center">Aplicação web para casos de ONGs que precisam ser encontradas.</blockquote>
