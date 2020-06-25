@@ -34,4 +34,4 @@
 1. Clone este repositorio.
 2. `cd frontend`<br />
 3. `yarn` para instalar as dependências.<br />
-4. `react-native run-android` para testar em seu aparelho.<br />
+4. `yarn start` para rodar a aplicação em `http://localhost:3000`.<br />
